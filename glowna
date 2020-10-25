@@ -1,0 +1,46 @@
+<!DOCTYPE HTML> 
+<html lang="pl"> 
+<HEAD>
+    <meta charset="utf-8" /> 
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+	<title>AmberRoom</title>
+	<meta name="description" content="AmberRoom, w pełni sportowe i luksuowe samochody ." /> 
+	<meta name="keywords" content="AmberRoom, super auta, sportowe samochody" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrom=1" /> 
+	<meta name="author" content="Robert Mizera"/>	
+    <TITLE>AmberRoom</TITLE>
+	
+	
+</HEAD>
+<BODY>
+<div class="naglowek">
+  <h1> AmberRoom<h1/>
+   </div>
+       
+	  
+    <div class ="menu">
+    
+      <a href='glowna.html' class='button'>Strona główna</a>
+
+      <a href='pokoje.html' class='button'>Pokoje</a>
+
+      <a href='galeria.html' class='button'>Galeria</a>
+
+
+
+   
+    </div>
+
+Strona poświęcona pokojom AmberRoom.
+
+
+
+<h2>
+<script type="text/javascript">
+    var czas = new Date(); 
+    document.write(czas); 
+</script>
+<h2/>
+
+</BODY>
+</HTML>
